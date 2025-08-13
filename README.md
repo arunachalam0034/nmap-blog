@@ -1,6 +1,6 @@
 # **Why Every Cybersecurity Person Should Know Nmap**  
 
-## 👋 Hey there!  
+  
 
 If you’re into cybersecurity — or even just curious about how hackers and security experts “see” a network — you need to know about  **Nmap**.  
 
