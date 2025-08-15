@@ -1,7 +1,7 @@
 # **Why Every Cybersecurity Person Should Know Nmap**  
 
   
-
+ 
 If you’re into cybersecurity — or even just curious about how hackers and security experts “see” a network — you need to know about  **Nmap**.  
 
 Nmap (short for *Network Mapper*) is like a flashlight in a dark room. It shows you what’s really happening inside a network:  
